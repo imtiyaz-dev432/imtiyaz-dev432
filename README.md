@@ -114,7 +114,7 @@ A management platform designed for coaching institutes and training centers.
 
 [View Repository →](https://github.com/imtiyaz-dev432/eduassist-ai)
 
-#### 2. Smart Finance Tracker
+#### 2. Smart Expense Tracker
 
 A web application for managing personal income, expenses, loans, and other financial activities.
 
@@ -126,7 +126,7 @@ A web application for managing personal income, expenses, loans, and other finan
 
 **Tech Stack:** Python, Flask, PostgreSQL, JWT, HTML, CSS, JavaScript.
 
-[View Repository →](https://github.com/imtiyaz-dev432/smart-finance-tracker)
+[View Repository →](https://github.com/imtiyaz-dev432/smart-expense-tracker)
 
 <br/>
 
